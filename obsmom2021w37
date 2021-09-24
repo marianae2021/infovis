@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Obs. MoM 2021 w37</title>
+</head>
+<body>
+
+<div id="observablehq-PlotObs-8377decd"></div>
+<div id="observablehq-plotRef-8377decd"></div>
+<p>Credit: <a href="https://observablehq.com/@marianae/mom-20201-w37">MoM 20201 w37 by Mariana Escobar</a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@marianae/mom-20201-w37.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "PlotObs") return new Inspector(document.querySelector("#observablehq-PlotObs-8377decd"));
+  if (name === "plotRef") return new Inspector(document.querySelector("#observablehq-plotRef-8377decd"));
+});
+</script>
+</body>
+</html>
