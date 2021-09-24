@@ -5,3 +5,5 @@
 
 * [MoM2021w37_Obser](https://marianae2021.github.io/infovis/obsmom2021w37.html)
 
+* [zoo](https://marianae2021.github.io/infovis/zoo.txt)
+ 
