@@ -1,0 +1,6 @@
+Stacked Graphs
+Horizon Graphs
+Parallel Coordinates
+dendrogram 
+Adjacency Diagrams
+sunburst layout
