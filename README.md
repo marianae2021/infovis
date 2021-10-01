@@ -9,3 +9,4 @@
 
 * [zoo](https://marianae2021.github.io/infovis/zoo.txt)
  
+ *[ResPasoChaco](https://marianae2021.github.io/infovis/ResPasoChaco.xlsx)
