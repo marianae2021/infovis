@@ -9,6 +9,8 @@
 
 * [zoo](https://marianae2021.github.io/infovis/zoo.txt)
  
- *[ResPasoChaco](https://marianae2021.github.io/infovis/ResPasoChaco.xlsx)
+* [ResPasoChaco](https://marianae2021.github.io/infovis/ResPasoChaco.xlsx)
  
-*[cicuito_06](https://marianae2021.github.io/infovis/circuito_06.zip)
+* [cicuito_06](https://marianae2021.github.io/infovis/circuito_06.zip)
+
+* [ResPasoCahcoDptos](https://marianae2021.github.io/infovis/ResPasoChacoDptos.xlsx)
