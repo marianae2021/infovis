@@ -15,4 +15,4 @@
 
 * [ResPasoCahcoDptos](https://marianae2021.github.io/infovis/ResPasoChacoDptos.xlsx)
 
-* [PPT_PASO_CHACO_2021](https://marianae2021.github.io/infovis/Trabajo practico qgis.pdf)
+* [TP_PASO_CHACO_2021](https://marianae2021.github.io/infovis/TrabajoPracticoQgis.pdf)
