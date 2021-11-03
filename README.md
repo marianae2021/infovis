@@ -15,4 +15,4 @@
 
 * [ResPasoCahcoDptos](https://marianae2021.github.io/infovis/ResPasoChacoDptos.xlsx)
 
-* [PPT_PASO_CHACO_2021](https://marianae2021.github.io/infovis/Resultados%20PASO%202021%20CHACO%20-Escobar-Margosa-Pauluk.pptx)
+* [PPT_PASO_CHACO_2021](https://marianae2021.github.io/infovis/Trabajo practico qgis.pdf)
