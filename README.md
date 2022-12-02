@@ -16,3 +16,5 @@
 * [ResPasoCahcoDptos](https://marianae2021.github.io/infovis/ResPasoChacoDptos.xlsx)
 
 * [TP_PASO_CHACO_2021](https://marianae2021.github.io/infovis/TrabajoPracticoQgis.pdf)
+
+* [TRABAJO_GUILLE](https://app.powerbi.com/reportEmbed?reportId=df30a726-b1f7-4bfe-91b5-2e45358ca1d0&autoAuth=true&ctid=3ee4c178-95f5-4a86-a531-2216f8e84370)
